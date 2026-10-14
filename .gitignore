@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# VS Code and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
